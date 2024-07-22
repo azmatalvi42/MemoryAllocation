@@ -14,10 +14,10 @@ Run the program with the initial memory size as a command line argument.
 Enter commands interactively to manage memory.
 
 Skills:
-C Programming
-Dynamic Memory Allocation
-Operating Systems
-Data Structures 
+C Programming.
+Dynamic Memory Allocation.
+Operating Systems.
+Data Structures,
 Command Line Interface (CLI) Handling
 
 Technologies Used:
