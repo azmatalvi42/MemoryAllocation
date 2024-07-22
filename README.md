@@ -28,7 +28,7 @@ allocator> Exit
 Skills:
 C Programming
 Dynamic Memory Allocation
-Understanding of Operating System Concepts
+Operating Systems
 Data Structures 
 Command Line Interface (CLI) Handling
 
