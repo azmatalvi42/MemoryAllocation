@@ -12,17 +12,15 @@ How to Run:
 Compile the code using a C compiler.
 Run the program with the initial memory size as a command line argument.
 Enter commands interactively to manage memory.
+
 Usage Example:
 
-less
-Copy code
 ./allocator 1048576
 allocator> RQ P0 20000 B
 Successfully allocated 20000 to process P0
 allocator> Status
 Partitions [Allocated memory= 20000]:
 Address [0:19999] Process P0
-
 Holes [Free memory= 1028576]:
 Address [20000:1048575] len = 1028576
 allocator> Exit
