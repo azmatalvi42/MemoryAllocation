@@ -21,5 +21,4 @@ Data Structures
 Command Line Interface (CLI) Handling
 
 Technologies Used:
-C
-Command Line Interface (CLI)
+C, Command Line Interface (CLI)
